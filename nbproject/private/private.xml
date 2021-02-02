@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="1">
+        <file>
+            <url>src/FXML/LoginController.java</url>
+            <bookmark id="1">
+                <name/>
+                <line>26</line>
+                <key/>
+            </bookmark>
+        </file>
+    </editor-bookmarks>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/gharb/Documents/NetBeansProjects/PhManager/src/FXML/LoginController.java</file>
+            <file>file:/C:/Users/gharb/Documents/NetBeansProjects/PhManager/src/FXML/HomeController.java</file>
+            <file>file:/C:/Users/gharb/Documents/NetBeansProjects/PhManager/src/FXML/GestionDeStockController.java</file>
+            <file>file:/C:/Users/gharb/Documents/NetBeansProjects/PhManager/src/CSS/Table.css</file>
+            <file>file:/C:/Users/gharb/Documents/NetBeansProjects/PhManager/src/FXML/GestionDeFournisseursController.java</file>
+            <file>file:/C:/Users/gharb/Documents/NetBeansProjects/PhManager/src/FXML/ModifierGestionDeStockInterfaceController.java</file>
+            <file>file:/C:/Users/gharb/Documents/NetBeansProjects/PhManager/src/MainApp/Connexionbdd.java</file>
+            <file>file:/C:/Users/gharb/Documents/NetBeansProjects/PhManager/src/FXML/ModifierGestionDeFournisseursInterfaceController.java</file>
+        </group>
+    </open-files>
+</project-private>

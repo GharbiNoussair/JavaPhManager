@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="350.0" prefWidth="480.0" style="-fx-background-color: #bcf5bc;" xmlns="http://javafx.com/javafx/8.0.171" xmlns:fx="http://javafx.com/fxml/1" fx:controller="FXML.ModifierGestionDeStockInterfaceController">
+   <children>
+      <Label layoutX="84.0" layoutY="221.0" text="Nom de Famille" />
+      <Label layoutX="131.0" layoutY="255.0" text="Quantité" />
+      <TextField fx:id="mnomf" editable="false" layoutX="221.0" layoutY="216.0" />
+      <TextField fx:id="mqte" layoutX="221.0" layoutY="250.0" />
+      <Button fx:id="inserer" layoutX="380.0" layoutY="305.0" mnemonicParsing="false" onAction="#InsererOnAction" prefHeight="31.0" prefWidth="76.0" stylesheets="@../CSS/ButtonHome2.css" text="Insérer" textFill="WHITE" />
+      <ImageView fitHeight="184.0" fitWidth="195.0" layoutX="153.0" layoutY="14.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@../Images/PhManager.png" />
+         </image>
+      </ImageView>
+   </children>
+</AnchorPane>
